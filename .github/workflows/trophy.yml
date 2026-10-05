@@ -14,11 +14,9 @@ jobs:
   generate:
     permissions:
       contents: write
-      repository-projects: read  # Add this
-             # Add this
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
       - name: generate trophy.svg
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
