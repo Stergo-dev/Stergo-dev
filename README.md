@@ -48,7 +48,7 @@
 ###
 
 <h3 data-importer="text" align="left"># Hi, I'm Parv Bali<br><br>
- 💻 Software Developer | ☁️ DevOps Enthusiast | 🚀 Full-Stack Developer<br><br>I'm a B.Tech student interested in software development, DevOps,<br>cloud technologies, and building practical projects.<br><br>-  Currently working on: Software & DevOps projects<br>-  Currently learning: Docker, Kubernetes, CI/CD & Cloud<br>- 💻 Languages: C++, Python, JavaScript<br>- ⚙️ Backend: Node.js, Express.js, PostgreSQL, Prisma<br>-  OS: Linux<br>- 🛠️ Tools: Git, GitHub, Docker<br>-  Goal: Become a strong Software/DevOps Engineer</h3>
+ 💻 Software Developer | ☁️ DevOps Enthusiast | 🚀 Full-Stack Developer<br><br>I'm a B.Tech student interested in software development, DevOps,<br>cloud technologies, and building practical projects.<br><br>-  Currently working on: Software & DevOps projects<br>-  Currently learning: Docker, Kubernetes, CI/CD & Cloud<br>- 💻 Languages: C++, Python, JavaScript, Typescript, Java<br>- ⚙️ Backend/Database: Node.js, Express.js, PostgreSQL, Redis MongoDB <br>-  OS: Linux<br>- 🛠️ Tools: Git, GitHub, Docker<br>-  Goal: Become a strong Software/DevOps Engineer</h3>
 
 ###
 
