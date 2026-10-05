@@ -10,10 +10,12 @@ on:
     branches:
     - main
 
+ 
+
 jobs:
   generate:
     permissions:
-      contents: write
+      contents: read  # Grants read access to user profile
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
