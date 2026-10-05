@@ -15,7 +15,7 @@ jobs:
     permissions:
       contents: write
       repository-projects: read  # Add this
-      public_repo: read           # Add this
+             # Add this
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
